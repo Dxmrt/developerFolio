@@ -87,11 +87,11 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "FET Recursos",
+      //logo: require("./assets/images/harvardLogo.png"),
+      subHeader: "Excel Data Analytics",
+      duration: "2023 - Present",
+      desc: "Excel is a powerful tool for data analysis that enables users to manipulate, analyze, and visualize large amounts of data quickly and easily. With its built-in features such as pivot tables, data tables, and various statistical functions, Excel is widely used in many industries, from finance and accounting to marketing and sales.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -100,8 +100,8 @@ const educationInfo = {
     {
       schoolName: "Stanford University",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      subHeader: "Web application development",
+      duration: "September 2017 - June 2019",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
@@ -127,7 +127,7 @@ const techStack = {
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-};
+}
 
 // Work experience section
 
