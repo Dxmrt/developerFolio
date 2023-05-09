@@ -50,7 +50,7 @@ const skillsSection = {
     emoji(
       "⚡ Crafting immersive and engaging digital experiences that leverage the power of blockchain."
     ),
-    emoji("⚡ Help Clients and collaborators stand out in a rapidly-evolving digital world."),
+    emoji("⚡ Help clients and collaborators stand out in a rapidly-evolving digital world."),
     emoji(
       "⚡ Push the boundaries of what's possible in the Web 3.0 landscape."
     )
