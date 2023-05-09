@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/dxmrt",
   linkedin: "https://www.linkedin.com/in/soniavgallego/",
-  gmail: "soniavgallego@gmail.com",
+  gmail: "douxxie.eth@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -359,8 +359,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "douxxie.eth@gmail.com"
 };
 
 // Twitter Section
