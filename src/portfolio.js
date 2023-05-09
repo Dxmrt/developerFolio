@@ -275,6 +275,7 @@ const blogSection = {
     {
       url: "https://medium.com/@douxxie.eth",
       title: "Web 3.0",
+      image: require("./assets/images/Web3.jpg"),
       description:
         "World Web 3.0"
     }
