@@ -45,14 +45,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Crazy Web 3.0 Content Creator who wants to explore every tech stack",
+  subTitle: "CRAZY WEB 3.0 CONTENT CREATOR WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Crafting immersive and engaging digital experiences that leverage the power of blockchain"
+      "⚡ Crafting immersive and engaging digital experiences that leverage the power of blockchain."
     ),
-    emoji("⚡ Help Clients and collaborators stand out in a rapidly-evolving digital world"),
+    emoji("⚡ Help Clients and collaborators stand out in a rapidly-evolving digital world."),
     emoji(
-      "⚡ Push the boundaries of what's possible in the Web 3.0 landscape"
+      "⚡ Push the boundaries of what's possible in the Web 3.0 landscape."
     )
   ],
 
