@@ -91,19 +91,24 @@ const educationInfo = {
       //logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Excel Data Analytics",
       duration: "2023 - Present",
-      desc: "Excel is a powerful tool for data analysis that enables users to manipulate, analyze, and visualize large amounts of data quickly and easily. With its built-in features such as pivot tables, data tables, and various statistical functions, Excel is widely used in many industries, from finance and accounting to marketing and sales.",
-      descBullets: [
+      desc: "Excel is a powerful tool for data analysis that enables users to manipulate, analyze, and visualize large amounts of data quickly and easily. With its built-in features such as pivot tables, data tables, and various statistical functions.",
+      //descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Web application development",
+      schoolName: "IES Burgo de las Rozas",
+      //logo: require("./assets/images/stanfordLogo.png"),
+      subHeader: "CFGM Técnico en instalaciones de telecomunicaciones",
       duration: "September 2017 - June 2019",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      descBullets: ["Infraestructuras comunes de telecomunicación en viviendas y edificios.",
+                    "Instalaciones domóticas.",
+                    "Electrónica aplicada."
+                    "Equipos microinformáticos.",
+                    "Infraestructuras de redes de datos y sistemas de telefonía."
+                   ]
     }
   ]
 };
