@@ -102,7 +102,7 @@ const educationInfo = {
       //logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "CFGM Técnico en instalaciones de telecomunicaciones",
       duration: "September 2017 - June 2019",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Telecommunications Technician",
       descBullets: ["Infraestructuras comunes de telecomunicación en viviendas y edificios.",
                     "Instalaciones domóticas.",
                     "Electrónica aplicada."
