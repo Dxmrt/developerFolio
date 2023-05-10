@@ -26,7 +26,7 @@ const greeting = {
     "I am content creator fully immersed in the world of decentralized web and blockchain technology. I bring a fresh perspective to the Web 3.0 landscape. So come along on this journey of discovery! 🚀"
   ),
   resumeLink:
-    "https://drive.google.com", // Set to empty to hide the button
+    "https://drive.google.com/drive/folders/10_PcVMAk-5EO9Ld7SjiYTzrP89sdRnT1?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/dxmrt",
-  linkedin: "https://www.linkedin.com/",
+  //linkedin: "https://www.linkedin.com/",
   gmail: "douxxie.eth@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
