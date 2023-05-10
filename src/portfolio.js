@@ -140,29 +140,29 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Social Media Manager",
+      company: "Portal del Roc",
+      //companylogo: require("./assets/images/facebookLogo.png"),
+      date: "2021 – Present",
+      desc: "Implementing social media and communication campaigns to align withmarketing strategies.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "www.portaldelrocpitchandputt.com",
+        "https://www.instagram.com/portaldelroc"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Full Stack Developer",
+      company: "Devuelving",
+      //companylogo: require("./assets/images/quoraLogo.png"),
+      date: "2019",
+      desc: "Front-End development: HTML , jQuery & CSS. Laravel Framework. E-commerce website development"
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "IT",
+      company: "Transcom",
+      //companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "2014-2015",
+      desc: "Support of data network infraestructure and equipment configuration. Data migration. VoIP phone configuration."
     }
   ]
 };
