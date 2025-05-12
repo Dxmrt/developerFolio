@@ -23,11 +23,11 @@ const greeting = {
   username: "Douxxie",
   title: "Hi all, I'm Douxxie",
   subTitle: emoji(
-    "I am content creator fully immersed in the world of decentralized web and blockchain technology. I bring a fresh perspective to the Web 3.0 landscape. So come along on this journey of discovery! 🚀"
+    "I am content Web3 3D creator fully immersed in the world of decentralized web and blockchain technology. I bring a fresh perspective to the Web3 landscape. So come along on this journey of discovery! 🚀"
   ),
   resumeLink:
-    "https://drive.google.com/drive/folders/10_PcVMAk-5EO9Ld7SjiYTzrP89sdRnT1?usp=share_link", // Set to empty to hide the button
-  displayGreeting: false // Set false to hide this section, defaults to true
+    "", // Set to empty to hide the button
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
