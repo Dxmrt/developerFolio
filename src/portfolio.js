@@ -45,14 +45,10 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY WEB 3.0 CONTENT CREATOR WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "WEB 3.0 CONTENT CREATOR WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Crafting immersive and engaging digital experiences that leverage the power of blockchain."
-    ),
-    emoji("⚡ Help clients and collaborators stand out in a rapidly-evolving digital world."),
-    emoji(
-      "⚡ Push the boundaries of what's possible in the Web 3.0 landscape."
     )
   ],
 
@@ -84,7 +80,7 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "FET Recursos",
